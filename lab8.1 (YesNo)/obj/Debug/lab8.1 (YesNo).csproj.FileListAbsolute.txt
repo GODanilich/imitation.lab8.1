@@ -1,0 +1,7 @@
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\bin\Debug\lab8.1 (YesNo).exe.config
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\bin\Debug\lab8.1 (YesNo).exe
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\bin\Debug\lab8.1 (YesNo).pdb
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\obj\Debug\lab8.1 (YesNo).csproj.AssemblyReference.cache
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\obj\Debug\lab8.1 (YesNo).csproj.CoreCompileInputs.cache
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\obj\Debug\lab8.1 (YesNo).exe
+D:\универ\ИМ\lab8.1 (YesNo)\lab8.1 (YesNo)\obj\Debug\lab8.1 (YesNo).pdb
